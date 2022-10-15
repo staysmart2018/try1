@@ -87,7 +87,7 @@
 @media only screen and (max-width: 430px) {
     .countdown-card{
         width: 70%;
-        height: 60%;
+        height: 40%;
     } 
     .countdown-text{
         font-size: 1rem;
