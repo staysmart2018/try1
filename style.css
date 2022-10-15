@@ -78,6 +78,7 @@
     .countdown-card{
         width: 40%;
         height: 35%;
+        bottom: 25%
     } 
     .countdown-text{
         font-size: 1rem;
@@ -88,6 +89,7 @@
     .countdown-card{
         width: 70%;
         height: 40%;
+        bottom: 25%
     } 
     .countdown-text{
         font-size: 1rem;
