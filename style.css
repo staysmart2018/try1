@@ -41,6 +41,9 @@
     height: 45%;
     border-radius: 6% 0 0 6%;
 }
+.countdown-content{
+    margin: auto auto;
+}
 .countdown-text{
     text-align: center;
     color: white;
